@@ -1,0 +1,51 @@
+/* index */
+
+.bg-green{
+	background-color: #18bc9c;
+	width: 100%;
+	min-height: 300px;
+}
+
+.header-height{
+	height: 500px;
+}
+
+.bg-dark{
+	background-color: #0A122A;
+	width: 100%;
+	min-height: 300px;
+}
+
+.text-white{
+	color:#fff;
+	
+}
+
+.super-star{
+	margin-top: 8%;
+}
+
+.mg-top-footer{
+	margin-top: 3%;
+}
+
+
+.border-white{
+	border: 2px solid #fff;
+}
+
+.font-size{
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.border-radius{
+	border-right: 100%;
+}
+
+.mg-top-blog{
+	margin-top: 10%; 
+}
+
+
+
